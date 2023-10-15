@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Alliance-Bold.otf",
+      "sha1": "74973205b0573deb6b5702110fd018ffd31a1cc4"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-BoldItalic.otf",
+      "sha1": "e168c9a8c3ff17ae92a329bcb36398e940ddb109"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-ExtBdCondItalic.otf",
+      "sha1": "2799ee3192a654c5c9dea2846f95d5d6b540936f"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-ExtraBold.otf",
+      "sha1": "ebc5228239632878960c7f972abc5a35ca4f62b5"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-ExtraBoldCondensed.otf",
+      "sha1": "bbc426f3e85f9c037a48317f3c6c8118a6983806"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-ExtraBoldItalic.otf",
+      "sha1": "833a2904a2fa2cfab9f18d407dbf979b46d0fc44"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-Medium.otf",
+      "sha1": "1e73a23f8a29c1702ed594d54a2716141aa9676b"
+    },
+    {
+      "path": "src/assets/fonts/Alliance-MediumItalic.otf",
+      "sha1": "5196e8fc33c1f156a04ba487bd7ec668c7bf1e73"
+    }
+  ]
+}
